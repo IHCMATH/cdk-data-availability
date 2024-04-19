@@ -1,5 +1,5 @@
 ---
-name: Test e2e
+name: Test mth1
 on:
   push:
     branches:
